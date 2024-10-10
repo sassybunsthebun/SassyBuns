@@ -67,11 +67,11 @@ expiryDate = ["expiryDate"]
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # description = "SassyBuns, a fursuit maker from Norway"
-  # images = [""]
+  images = ["booop.png"]
   themeColor = "#494f5c"
 
   #homeSubtitle = "Fursuit maker from Norway"
-  footerCopyright = "Commissions page"
+  footerCopyright = "Commission and portfolio website"
   # footerHideThemeName = false 
   # bgImg = ""
   # gitUrl = "https://github.com/sassybunsthebun/SassyBuns"
@@ -87,7 +87,7 @@ expiryDate = ["expiryDate"]
   readTime = true
   readTimeSeparator = "CHANGE ME READ TIME"
   # legacyLayout = false
-  shareSocial = true
+  shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
   # tagSymbol = "#"
   # categorySymbol = "⊲"
