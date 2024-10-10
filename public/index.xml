@@ -1,11 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>SassyBuns</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on SassyBuns</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>:3</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Hugo</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.&#xA;It makes use of a variety of open source projects including:&#xA;https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cleaning-guide/cleaning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cleaning-guide/cleaning/</guid>
+      <description>Cleaning Thank you so much for commissioning a fursuit from me! As long as you own a fursuit of mine I am always open for repairs and refurbs. My quality is likely to improve over time, so previous customers are therefore able to upgrade their fursuits with me to ensure their suits stay at a satisfactory quality level.&#xA;As you may know, it is crucial to not use any heat on faux fur when washing it.</description>
+    </item>
+    <item>
+      <title>Commission prices — fursuits</title>
+      <link>http://localhost:1313/prices/fursuit_prices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/prices/fursuit_prices/</guid>
+      <description>commission prices Fursuits Handpaws — 350 € / 3500 kr Features several different styles of handpaws. Not only can you get the regular handpaws, but also talon hand paws, rodent hand paws, hooved handpaws and cloofed handpaws etc. They feature a combination of minky and faux fur, with sweat-absorbent neoprene lining on the inside. Each pair is crafted with care to make them durable and aesthetically pleasing. Features claws upon your request.</description>
+    </item>
+    <item>
+      <title>Gallery — fursuits</title>
+      <link>http://localhost:1313/fursuit-gallery/fursuit_gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/fursuit_gallery/</guid>
+      <description>Yori KHTangent Hevros App3l Tevje Carlium Fluffy Luke Nexo Asher Charme woof Acie 2.0 Keio Michael Floof CandyCrystal Lightningfox Leo Freezingdodge (+ 3 more)</description>
+    </item>
+    <item>
+      <title>How to commission</title>
+      <link>http://localhost:1313/commission-guide/how_to_commission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commission-guide/how_to_commission/</guid>
+      <description>This is a step-by step look at my commission process Picture&#xA;Everything begins with the first text! Begin by letting me know you are interested in a fursuit commission and send me either a reference sheet or a detailed description of how you&amp;rsquo;d like the character to be. You also have the opportunity to send references of styles you like, components you imagine, and all that jazz!&#xA;Picture&#xA;I then show you sketches for the concept and fur colors I think would match with the character.</description>
+    </item>
+    <item>
+      <title>Supplies</title>
+      <link>http://localhost:1313/supplies/supplies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supplies/supplies/</guid>
+      <description>The list of supplies i use for commissions and where I source them. This is to ensure you can quality check the fur i am using, and know i am using the best product for your suit.&#xA;Faux fur Howl fabrics Big Z fabric (US) dutchcolour (NL) stoffhummel (DE) naehstich (DE) occasionally NFT fur (US) #M inky&#xA;stoffhummel (DE) Neoprene rainbowtekstil (NO) (tested for color fastness) </description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/tos/terms_of_service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tos/terms_of_service/</guid>
+      <description>Terms of Service These are the terms and conditions which both I, the creator, and the commissioner will abide by to ensure a safe and enjoyable commission experience. By commissioning me, you agree to my Terms of Service (ToS). Who can commission me I do not accept commissions from minors (under 18 years old) or commissions from parents or guardians on behalf of a minor.&#xA;Conditions My Terms of Service may be subject to change.</description>
+    </item>
   </channel>
 </rss>

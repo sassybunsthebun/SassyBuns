@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cleaning-guide/cleaning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cleaning-guide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prices/fursuit_prices/</loc>
+  </url><url>
+    <loc>http://localhost:1313/commission-guide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/fursuit_gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/commission-guide/how_to_commission/</loc>
+  </url><url>
+    <loc>http://localhost:1313/prices/</loc>
+  </url><url>
+    <loc>http://localhost:1313/supplies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/supplies/supplies/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tos/terms_of_service/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tos/</loc>
   </url>
 </urlset>

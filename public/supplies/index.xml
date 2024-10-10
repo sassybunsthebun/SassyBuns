@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supplies on SassyBuns</title>
+    <link>http://localhost:1313/supplies/</link>
+    <description>Recent content in Supplies on SassyBuns</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>:3</copyright>
+    <atom:link href="http://localhost:1313/supplies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supplies</title>
+      <link>http://localhost:1313/supplies/supplies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supplies/supplies/</guid>
+      <description>The list of supplies i use for commissions and where I source them. This is to ensure you can quality check the fur i am using, and know i am using the best product for your suit.&#xA;Faux fur Howl fabrics Big Z fabric (US) dutchcolour (NL) stoffhummel (DE) naehstich (DE) occasionally NFT fur (US) #M inky&#xA;stoffhummel (DE) Neoprene rainbowtekstil (NO) (tested for color fastness) </description>
+    </item>
+  </channel>
+</rss>
