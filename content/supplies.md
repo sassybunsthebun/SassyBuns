@@ -16,7 +16,7 @@ This is to ensure you can quality check the fur i am using, and know i am using 
 - naehstich (DE)
 - occasionally NFT fur (US)
 
-#M inky 
+# Minky 
 - stoffhummel (DE)
 
 # Neoprene 

@@ -8,12 +8,5 @@
     <language>en-us</language>
     <copyright>:3</copyright>
     <atom:link href="http://localhost:1313/tos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:1313/tos/terms_of_service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tos/terms_of_service/</guid>
-      <description>Terms of Service These are the terms and conditions which both I, the creator, and the commissioner will abide by to ensure a safe and enjoyable commission experience. By commissioning me, you agree to my Terms of Service (ToS). Who can commission me I do not accept commissions from minors (under 18 years old) or commissions from parents or guardians on behalf of a minor.&#xA;Conditions My Terms of Service may be subject to change.</description>
-    </item>
   </channel>
 </rss>

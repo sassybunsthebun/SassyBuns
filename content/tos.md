@@ -3,7 +3,6 @@ title = 'Terms of Service'
 draft = false 
 +++
 
-# Terms of Service 
 
 ## These are the terms and conditions which both I, the creator, and the commissioner will abide by to ensure a safe and enjoyable commission experience. By commissioning me, you agree to my Terms of Service (ToS).
 

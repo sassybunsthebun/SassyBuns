@@ -7,13 +7,77 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>:3</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fursuit-gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gallery — fursuits</title>
-      <link>http://localhost:1313/fursuit-gallery/fursuit_gallery/</link>
+      <title>Michael Floof</title>
+      <link>http://localhost:1313/fursuit-gallery/michael-floof/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/michael-floof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Charme Woof</title>
+      <link>http://localhost:1313/fursuit-gallery/charme-woof/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/charme-woof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acie 2.0</title>
+      <link>http://localhost:1313/fursuit-gallery/acie-2.0/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/acie-2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CandyCrystal</title>
+      <link>http://localhost:1313/fursuit-gallery/candycrystal/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/candycrystal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asher</title>
+      <link>http://localhost:1313/fursuit-gallery/asher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fursuit-gallery/fursuit_gallery/</guid>
-      <description>Yori KHTangent Hevros App3l Tevje Carlium Fluffy Luke Nexo Asher Charme woof Acie 2.0 Keio Michael Floof CandyCrystal Lightningfox Leo Freezingdodge (+ 3 more)</description>
+      <guid>http://localhost:1313/fursuit-gallery/asher/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carlium</title>
+      <link>http://localhost:1313/fursuit-gallery/carlium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/carlium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fluffy Luke</title>
+      <link>http://localhost:1313/fursuit-gallery/fluffy-luke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/fluffy-luke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FreezingDodge</title>
+      <link>http://localhost:1313/fursuit-gallery/freezingdodge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/freezingdodge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hevros</title>
+      <link>http://localhost:1313/fursuit-gallery/hevros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/hevros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keio</title>
+      <link>http://localhost:1313/fursuit-gallery/keio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fursuit-gallery/keio/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

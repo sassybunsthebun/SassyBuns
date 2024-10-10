@@ -2,7 +2,6 @@
 title = 'Commission prices — fursuits'
 draft = false 
 +++
-#  commission prices 
 
 ## Fursuits
 

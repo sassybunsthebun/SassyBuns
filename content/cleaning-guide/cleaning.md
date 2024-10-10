@@ -1,9 +1,8 @@
 +++
+title = "Cleaning"
 date = "2024.10.10"
 draft = false 
 +++
-
-# Cleaning
 
 Thank you so much for commissioning a fursuit from me! As long as you own a fursuit of mine I am always open for repairs and refurbs. My quality is likely to improve over time, so previous customers are therefore able to upgrade their fursuits with me to ensure their suits stay at a satisfactory quality level. 
 

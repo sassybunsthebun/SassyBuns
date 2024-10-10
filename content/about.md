@@ -1,16 +1,8 @@
 +++
-title = "About Hugo"
+title = "About this website"
 date = "2014-04-09"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+This page was made with Hugo, a framework for building websites. It's written in Go. The theme is "Hermit-V2".
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Thanks to KHTangent for helping me with this project ♥

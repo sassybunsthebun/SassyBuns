@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/prices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commission prices — fursuits</title>
-      <link>http://localhost:1313/prices/fursuit_prices/</link>
+      <link>http://localhost:1313/prices/prices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prices/fursuit_prices/</guid>
+      <guid>http://localhost:1313/prices/prices/</guid>
       <description>commission prices Fursuits Handpaws — 350 € / 3500 kr Features several different styles of handpaws. Not only can you get the regular handpaws, but also talon hand paws, rodent hand paws, hooved handpaws and cloofed handpaws etc. They feature a combination of minky and faux fur, with sweat-absorbent neoprene lining on the inside. Each pair is crafted with care to make them durable and aesthetically pleasing. Features claws upon your request.</description>
     </item>
   </channel>

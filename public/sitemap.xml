@@ -2,39 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/fursuit-gallery/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/michael-floof/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/charme-woof/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/acie-2.0/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/candycrystal/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/asher/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/carlium/</loc>
   </url><url>
     <loc>http://localhost:1313/cleaning-guide/cleaning/</loc>
   </url><url>
     <loc>http://localhost:1313/cleaning-guide/</loc>
   </url><url>
-    <loc>http://localhost:1313/prices/fursuit_prices/</loc>
+    <loc>http://localhost:1313/prices/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/fluffy-luke/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/freezingdodge/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/hevros/</loc>
   </url><url>
     <loc>http://localhost:1313/commission-guide/</loc>
   </url><url>
-    <loc>http://localhost:1313/fursuit-gallery/</loc>
+    <loc>http://localhost:1313/fursuit-gallery/keio/</loc>
   </url><url>
-    <loc>http://localhost:1313/fursuit-gallery/fursuit_gallery/</loc>
+    <loc>http://localhost:1313/fursuit-gallery/khtangent/</loc>
   </url><url>
-    <loc>http://localhost:1313/commission-guide/how_to_commission/</loc>
+    <loc>http://localhost:1313/fursuit-gallery/leo/</loc>
   </url><url>
-    <loc>http://localhost:1313/prices/</loc>
+    <loc>http://localhost:1313/fursuit-gallery/lightningfox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/nexo/</loc>
   </url><url>
     <loc>http://localhost:1313/supplies/</loc>
   </url><url>
-    <loc>http://localhost:1313/supplies/supplies/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tos/terms_of_service/</loc>
-  </url><url>
     <loc>http://localhost:1313/tos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/app3l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/tevje/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fursuit-gallery/yori/</loc>
   </url>
 </urlset>
