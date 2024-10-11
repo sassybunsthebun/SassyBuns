@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'SassyBuns'
 theme = 'hermit-V2'
+timeout = '180s'
 
 #[languages]
 #  [languages.en]
