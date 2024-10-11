@@ -6,43 +6,41 @@ draft = false
 
 ## These are the terms and conditions which both I, the creator, and the commissioner will abide by to ensure a safe and enjoyable commission experience. By commissioning me, you agree to my Terms of Service (ToS).
 
+These terms apply to all commissions, except if something else has been agreed upon before the commission is started.
 
 ### Who can commission me
 
-I do not accept commissions from minors (under 18 years old) or commissions from parents or guardians on behalf of a minor.
+I do not accept commissions from people under the age of 18. This includes commissions from parents or guardians on behalf of a person under the age of 18.
 
-### Conditions
-
-My Terms of Service may be subject to change. In that case, clients will be notified ahead of time. 
-It is possible to create special terms of service for projects if needed. This will be discussed with the client.
+I prefer to only receive commissions from Norway, Sweden, Denmark, and Finland.
 
 ### Ownership and display
 
-I retain the right to display my completed work in my portfolio unless discussed and agreed upon with the client. 
-The client may display the commission they have received, as long as it is not in a manner that is harmful to my name and reputation. 
-I also retain the right to use work-in-progress (WIP) images and share them unless discussed and agreed upon with the client. (for surprises, birthdays, etc). 
+I retain the right to use photos of my work in my portfolio and promotional materials unless discussed and agreed upon with the client.
+
+The client may post photos and videos of my work. Giving credit is greatly appreciated, but not strictly required.
+
 
 ### Payments
 
 I use Vipps and bank transfers for payment. 
-I accept payment plans, which will be discussed with each client. I will not send any part of the commission unless the final/total payment has been sent. I will not begin your work before the final payment has been sent. 
-You are able to request a refund before i buy the materials. After that you are not able to recieve a full refund.
-I have the right to refund you if I deem it is needed. I will give you full refund if I decide it is necessary and i cannot continue with the commission. 
+I accept payment plans, which will be discussed with each client.
+I will not start your commission or order materials until the final payment has been received.
+You are able to request a full refund before i buy the materials. After that you are not able to recieve a refund.
 
-### Process
+In rare circumstances, I may not be able to finish your commission. In these cases, you will receive a full refund, even if materials have been ordered.
 
-I do not start the commission or buy supplies before the first payment has been sent.
-Things may occur in my life that cause delays in my process. This is something that I sadly cannot control. Therefore, there may be unannounced delays, however, I will provide updates and communication and resume work as soon as possible.
 
 ### Deadlines
 
-Due to the fact that fursuits take a long time to make, I cannot guarantee that I meet any deadlines such as cons, etc. I therefore do not work with deadlines. I advise commissioning at least 12 months prior for your commission to be finished in time. 
-Even though I do not work with deadlines, I will still do my best to finish your work as fast as possible. 
+Due to the fact that fursuits take a long time to make, I cannot guarantee that I meet any deadlines such as cons, etc. I therefore do not work with deadlines. Even though I do not work with deadlines, I will still do my best to finish your work as fast as possible, and will provide updates during the making of the fursuit.
 
-### Shipping 
+### Shipping
 
 I ship with Posten from Norway with tracking. Do contact me about different shipping methods if Posten is not preferable for you.
 
 ### Repair
 
-If there is any damage to your fursuit after you have received it, I am always open to doing repairs and touch-ups to lengthen the lifespan of the suit and keep it looking fresh. I will not do repairs on suits that have been intentionally damaged or damaged because of improper care. For how to care for your suit, visit my cleaning page. 
+I do offer repairs and touch-ups on finished commissions. I may charge a fee for materials and/or labor depending on the complexity of the repair. This will be agreed upon before the repair is started.
+The commissionner is responsible for shipping or delivering the suit to me, and for picking up or paying return shipping after the repair is finished. 
+I may refuse to to repairs if the fursuit has been damaged intentionally, or as a result of improper care, such as from not following the provided [cleaning guide](../cleaning).
