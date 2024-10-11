@@ -25,8 +25,8 @@ I also retain the right to use work-in-progress (WIP) images and share them unle
 ### Payments
 
 I use Vipps and bank transfers for payment. 
-I accept payment plans, which will be discussed with each client. I will not send any part of the commission unless the final/total payment has been sent.
-You are able to request a refund at any time, however after materials are purchased, I cannot refund that amount immediately. I may require payment plans to do refunds as much of the income goes into buying supplies.
+I accept payment plans, which will be discussed with each client. I will not send any part of the commission unless the final/total payment has been sent. I will not begin your work before the final payment has been sent. 
+You are able to request a refund before i buy the materials. After that you are not able to recieve a full refund.
 I have the right to refund you if I deem it is needed. I will give you full refund if I decide it is necessary and i cannot continue with the commission. 
 
 ### Process
@@ -36,7 +36,7 @@ Things may occur in my life that cause delays in my process. This is something t
 
 ### Deadlines
 
-Due to the fact that fursuits take a long time to make, I cannot guarantee that I meet any deadlines such as cons, etc, so I advise commissioning at least 12 months prior for your commission to be finished in time. 
+Due to the fact that fursuits take a long time to make, I cannot guarantee that I meet any deadlines such as cons, etc. I therefore do not work with deadlines. I advise commissioning at least 12 months prior for your commission to be finished in time. 
 Even though I do not work with deadlines, I will still do my best to finish your work as fast as possible. 
 
 ### Shipping 

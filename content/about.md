@@ -7,7 +7,7 @@ This page was made with Hugo, a framework for building websites. It's written in
 
 ### Contact information: 
 
-Telegram: SassyBuns
+Telegram: [SassyBuns](https://t.me/SassyBuns)
 
 Discord: sassybuns
 
@@ -15,7 +15,7 @@ Bluesky: [sassybuns](https://bsky.app/profile/sassybuns.bsky.social)
 
 GitHub: [sassybunsthebun](https://github.com/sassybunsthebun)
 
-Instagram (inactive): sassybuns_
+Instagram (inactive): [sassybuns_](https://www.instagram.com/sassybuns_/)
 
 Twitter (really inactive): [sassybunsthebun](https://twitter.com/sassybunsthebun)
 
