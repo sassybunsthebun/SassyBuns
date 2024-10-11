@@ -70,7 +70,7 @@ expiryDate = ["expiryDate"]
   images = ["booop.png"]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "Fursuit maker from Norway"
+  homeSubtitle = "Fursuit maker from Norway"
   footerCopyright = "Commission and portfolio website"
   # footerHideThemeName = false 
   # bgImg = ""
