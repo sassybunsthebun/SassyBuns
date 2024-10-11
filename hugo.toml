@@ -103,13 +103,13 @@ expiryDate = ["expiryDate"]
   # noIndexPages = ["404 Page not found"]
 
   
-  [[params.socialLinks]]
-    name = "discord"
-    url = "https://joinmastodon.org/"
+  #[[params.socialLinks]]
+  #  name = "discord"
+  #  url = "sassybuns"
 
   [[params.socialLinks]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://www.instagram.com/sassybuns_/"
 
   [[params.socialLinks]]
     name = "github"
@@ -117,7 +117,7 @@ expiryDate = ["expiryDate"]
 
   [[params.socialLinks]]
     name = "telegram"
-    url = "https://github.com/sassybunsthebun"
+    url = "https://t.me/SassyBuns"
 
 [menu]
 

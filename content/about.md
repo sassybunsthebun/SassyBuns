@@ -23,4 +23,4 @@ Twitter (really inactive): [sassybunsthebun](https://twitter.com/sassybunsthebun
 
 ### Thanks
 
-Thanks to KHTangent for helping me with this project ♥
+Thanks to [KHTangent](https://khtangent.com) for helping me with this project ♥
