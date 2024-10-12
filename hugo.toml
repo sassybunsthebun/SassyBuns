@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sassybuns.no/'
 languageCode = 'en-us'
 title = 'SassyBuns'
 theme = 'hermit-V2'
