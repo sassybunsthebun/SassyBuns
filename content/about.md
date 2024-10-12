@@ -11,7 +11,7 @@ Telegram: [SassyBuns](https://t.me/SassyBuns)
 
 Discord: sassybuns
 
-Bluesky: [sassybuns](https://bsky.app/profile/sassybuns.bsky.social)
+Bluesky: [sassybuns](https://bsky.app/profile/sassybuns.no)
 
 GitHub: [sassybunsthebun](https://github.com/sassybunsthebun)
 
