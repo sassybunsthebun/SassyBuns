@@ -67,11 +67,11 @@ expiryDate = ["expiryDate"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # description = "SassyBuns, a fursuit maker from Norway"
+  # description = "Fursuit maker, artist and creator from Norway"
   # images = ["booop.png"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Fursuit maker from Norway"
+  homeSubtitle = "Fursuit maker, artist and creator from Norway"
   footerCopyright = "Commission and portfolio website"
   # footerHideThemeName = false 
   bgImg = "booop.png"
