@@ -123,9 +123,14 @@ expiryDate = ["expiryDate"]
 [menu]
 
   [[menu.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 10
+
+  [[menu.main]]
     name = "Prices"
     url = "prices/"
-    weight = 10
+    weight = 11
 
   [[menu.main]]
     name = "Fursuit gallery"
