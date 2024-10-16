@@ -72,7 +72,7 @@ expiryDate = ["expiryDate"]
   themeColor = "#494f5c"
 
   homeSubtitle = "Fursuit maker, artist and creator from Norway"
-  footerCopyright = "Commission and portfolio website"
+  footerCopyright = "Commission and portfolio website "
   # footerHideThemeName = false 
   bgImg = "booop.png"
   # gitUrl = "https://github.com/sassybunsthebun/SassyBuns"
