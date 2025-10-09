@@ -11,11 +11,11 @@ Everything begins with the first text! Begin by letting me know you are interest
 
 {{< figure src="/howto/how2.png" alt="Figuring out the concept!" caption="Figuring out the concept!" >}}
 
-I then show you sketches for the concept and fur colors I think would match with the character. We can make changes, and when you are satisfied with the selection, we continue to the next step. 
+I then show you sketches for the concept and fur colors I think would match with the character. We can make changes, and when you are satisfied with the selection, we continue to the next step.
 
 {{< figure src="/howto/how3.png" alt="Sending payment!" caption="Sending payment!" >}}
 
-You then send the payment we've agreed upon, and I order the materials needed for the project. 
+You then send the payment we've agreed upon, and I order the materials needed for the project.
 
 {{< figure src="/howto/how4.png" alt="Getting into business!" caption="Getting into business!" >}}
 
@@ -23,7 +23,7 @@ When all the supplies arrive, I get to work. Since I get my supplies from differ
 
 {{< figure src="/howto/how5.png" alt="Sending WIPS!" caption="Sending WIPS!" >}}
 
-I then send you WIP images throughout the progress. Feel free to suggest any changes and come with feedback! Once you're happy with how everything's looking, we move to the next step. 
+I then send you WIP images throughout the progress. Feel free to suggest any changes and come with feedback! Once you're happy with how everything's looking, we move to the next step.
 
 {{< figure src="/howto/how6.png" alt="Packaging the fursuit!" caption="Packaging the fursuit" >}}
 

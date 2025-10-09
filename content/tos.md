@@ -20,13 +20,12 @@ I retain the right to use photos of my work in my portfolio and promotional mate
 
 The client may post photos and videos of my work. Giving credit is greatly appreciated, but not strictly required.
 
-
 ### Payments
 
-I use Vipps and bank transfers for payment. 
+I use Vipps and bank transfers for payment.
 I accept payment plans, which will be discussed with each client.
 I will not start your commission or order materials until the final payment has been received.
-You are able to request a full refund before i buy the materials. After that you are not able to recieve a refund.
+You are able to request a full refund before I buy the materials. After that you are not able to receive a refund.
 
 In rare circumstances, I may not be able to finish your commission. In these cases, you will receive a full refund, even if materials have been ordered.
 
@@ -42,5 +41,5 @@ I ship with Posten from Norway with tracking. Do contact me about different ship
 ### Repair
 
 I do offer repairs and touch-ups on finished commissions. I may charge a fee for materials and/or labor depending on the complexity of the repair. This will be agreed upon before the repair is started.
-The commissionner is responsible for shipping or delivering the suit to me, and for picking up or paying return shipping after the repair is finished. 
-I may refuse to to repairs if the fursuit has been damaged intentionally, or as a result of improper care, such as from not following the provided [cleaning guide](../cleaning).
+The commissioner is responsible for shipping or delivering the suit to me, and for picking up or paying return shipping after the repair is finished.
+I may refuse to do repairs if the fursuit has been damaged intentionally, or as a result of improper care, such as from not following the provided [cleaning guide](../cleaning).

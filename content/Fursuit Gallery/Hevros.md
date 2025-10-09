@@ -5,7 +5,7 @@ date: 2024-06-25
 title: Hevros
 ---
 
-Hevros is a canine suit owned by hevros on Telegram. 
+Hevros is a canine suit owned by hevros on Telegram.
 
 {{< figure src="/hevros/hevros1.jpg" alt="Hevros front view" caption="Hevros front view" >}}
 

@@ -5,7 +5,7 @@ date: 2024-04-16
 title: Tevje
 ---
 
-Tevje is a feline suit owned by tevjewolx on Discord. 
+Tevje is a feline suit owned by tevjewolx on Discord.
 
 {{< figure src="/tevje/tevje2.jpg" alt="Tevje front view" caption="Tevje front view" >}}
 

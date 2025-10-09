@@ -5,7 +5,7 @@ date: 2023-12-01
 title: Nexo
 ---
 
-Neco is a rexolium owned by nexorexo on Discord. 
+Neco is a rexolium owned by nexorexo on Discord.
 
 {{< figure src="/nexo/nexo1.jpg" alt="Nexo front view" caption="Nexo front view" >}}
 

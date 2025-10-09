@@ -5,7 +5,7 @@ date: 2022-12-03
 title: FreezingDodge
 ---
 
-FreezingDodge is a canine suit owned by freezingdodge on Discord. 
+FreezingDodge is a canine suit owned by freezingdodge on Discord.
 
 {{< figure src="/freezing/freezing1.jpg" alt="FreezingDodge front view" caption="FreezingDodge front view" >}}
 

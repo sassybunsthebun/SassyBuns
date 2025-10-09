@@ -5,7 +5,7 @@ date: 2024-12-03
 title: Fluffy Luke
 ---
 
-Fluffy Luke is a canine suit owned by Luke02 på Telegram. 
+Fluffy Luke is a canine suit owned by Luke02 on Telegram.
 
 {{< figure src="/fluffyluke/fluffyluke1.jpg" alt="Fluffy Luke front view" caption="Fluffy Luke front view" >}}
 

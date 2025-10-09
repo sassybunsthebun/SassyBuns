@@ -5,7 +5,7 @@ date: 2022-10-02
 title: CandyCrystal
 ---
 
-CandyCrystal is a bunny suit owned by candycrystal on Discord. 
+CandyCrystal is a bunny suit owned by candycrystal on Discord.
 
 {{< figure src="/candycrystal/CandyCrystal.jpeg" alt="CancyCrystal front view" caption="CandyCrystal front view" >}}
 

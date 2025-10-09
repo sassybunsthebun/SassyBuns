@@ -5,7 +5,7 @@ date: 2022-04-13
 title: Lightningfox
 ---
 
-Lightningfox is a canine suit owened by lightningfoxwhusky on Telegram. 
+Lightningfox is a canine suit owned by lightningfoxwhusky on Telegram.
 
 {{< figure src="/lightningfox/lightningfox1.jpeg" alt="Lightningfox front view" caption="Lightningfox front view" >}}
 

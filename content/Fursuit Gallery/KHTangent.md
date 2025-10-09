@@ -5,7 +5,7 @@ date: 2024-06-10
 title: KHTangent
 ---
 
-KHTangent is a dragon fursuit owned by [KHTangent](https://khtangent.com). 
+KHTangent is a dragon fursuit owned by [KHTangent](https://khtangent.com).
 
 {{< figure src="/tangent/tangent1.jpg" alt="KHTangent front view" caption="KHTangent front view" >}}
 

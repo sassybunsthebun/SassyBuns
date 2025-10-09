@@ -3,7 +3,7 @@ title = 'Supplies'
 draft = false 
 +++
 
-## The list of supplies i use for commissions and where I source them.
+## The list of supplies I use for commissions and where I source them
 
 This is to ensure you can quality check the fur i am using, and know I am using the best product for your suit.
 

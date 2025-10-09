@@ -5,7 +5,7 @@ date: 2024-09-06
 title: Appel3
 ---
 
-Appel is a rexolium owned by appel3 on Discord. 
+Appel is a rexolium owned by appel3 on Discord.
 
 {{< figure src="/appel3/appel31.jpg" alt="Appel3 front view" caption="Appel3 front view" >}}
 

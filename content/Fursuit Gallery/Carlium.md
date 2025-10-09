@@ -5,7 +5,7 @@ date: 2023-03-12
 title: Carlium
 ---
 
-Carlium is a canine suit owned by carlium on Discord. 
+Carlium is a canine suit owned by carlium on Discord.
 
 {{< figure src="/carlium/carlium1.jpg" alt="Carlium front view" caption="Carlium front view" >}}
 

@@ -5,7 +5,7 @@ date: 2023-06-21
 title: Asher
 ---
 
-Asher is a canine suit owned by asherwuffy on Discord. 
+Asher is a canine suit owned by asherwuffy on Discord.
 
 {{< figure src="/asher/asher1.jpg" alt="Asher front view" caption="Asher front view" >}}
 
