@@ -1,7 +1,9 @@
-+++
-title = "About this website"
-date = "2014-04-09"
-+++
+---
+author: "SassyBuns"
+authorLink: SassyBuns
+date: 2024-04-09
+title: About this website
+---
 
 This page was made with Hugo, a framework for building websites. It's written in Go. The theme is "Hermit-V2".
 

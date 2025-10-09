@@ -1,7 +1,10 @@
-+++
-title = 'How to commission'
-draft = false 
-+++
+---
+author: "SassyBuns"
+authorLink: SassyBuns
+date: 2024-10-10
+title: How to commission
+---
+
 
 ## This is a step-by step look at my commission process
 

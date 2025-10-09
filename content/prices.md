@@ -1,7 +1,9 @@
-+++
-title = 'Commission prices — fursuits'
-draft = false 
-+++
+---
+author: "SassyBuns"
+authorLink: SassyBuns
+date: 2024-10-10
+title: Commission prices — fursuits
+---
 
 ## Fursuits
 

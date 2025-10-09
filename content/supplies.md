@@ -1,7 +1,9 @@
-+++
-title = 'Supplies'
-draft = false 
-+++
+---
+author: "SassyBuns"
+authorLink: SassyBuns
+date: 2024-10-10
+title: Supplies
+---
 
 ## The list of supplies I use for commissions and where I source them
 
