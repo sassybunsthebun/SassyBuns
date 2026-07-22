@@ -48,3 +48,7 @@ A head made to fit comfortably around your head. The heads are custom-made to yo
 {{< figure src="/prices/prices5.jpg" alt="Armsleeves" caption="Armsleeves" >}}
 
 Arm sleeves are a perfect add-on for partials if you do not wish to have a fullsuit, but want to wear fursuits while wearing short-sleeved clothing. The sleeves go from the top of the arm down to the beginning of the handpaws, creating a seamless sleeve look! The sleeves are connected with elastic at the back, so that it can be comfortably worn over the shoulders. They feature minky and faux fur and can be made to fit any character. The heads need extra care when washing, more information on the cleaning page. PS. Making sleeves requires me to receive different measurements of your arms.
+
+### Bodysuit
+
+__Contact me with your reference sheet for a private quote. I am quite picky with who I offer bodysuits to.__
