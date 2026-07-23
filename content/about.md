@@ -19,8 +19,6 @@ GitHub: [sassybunsthebun](https://github.com/sassybunsthebun)
 
 Instagram (inactive): [sassybuns_](https://www.instagram.com/sassybuns_/)
 
-Twitter (really inactive): [sassybunsthebun](https://twitter.com/sassybunsthebun)
-
 ### Thanks
 
 Thanks to [KHTangent](https://khtangent.com) for helping me with this project ♥

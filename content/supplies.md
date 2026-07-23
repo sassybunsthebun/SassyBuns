@@ -5,23 +5,23 @@ date: 2024-10-10
 title: Supplies
 ---
 
-## The list of supplies I use for commissions and where I source them
+*This is a list of where I source my fur and fabrics, so you can ensure I choose the best product for your suit.*
 
-This is to ensure you can quality check the fur I am using.
-
-# Faux fur
+## Faux fur
 
 - Howl fabrics
 - Big Z fabric (US)
 - stoffhummel (DE)
 - naehstich (DE)
+- Limeyfur (potentially when it releases)
 - occasionally NFT fur (US)
 
-# Minky 
+## Minky
+
 - stoffhummel (DE)
 
-# Neoprene 
+## Neoprene
 
-- rainbowtekstil (NO) (tested for color fastness) 
+- rainbowtekstil (NO) (tested for color fastness)
 
-__Unsure how to find the correct fur for you? See here for different suppliers: https://fursuitmaterials.com/fur/__
+*Unsure how to find the correct fur for you? See here for different suppliers: https://fursuitmaterials.com/fur/*
