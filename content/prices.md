@@ -7,6 +7,8 @@ title: Commission prices — fursuits
 
 ## Fursuits
 
+*These prices are the baseline prices, and the fursuit part may cost more than the given amount, for example due to a high complexity design. Contact me for a specific quote!*
+
 ### Handpaws — 3500 kr
 
 {{< figure src="/prices/prices4.jpg" alt="Handpaws" caption="Handpaws" >}}
@@ -23,7 +25,7 @@ Features several styles of handpaws. Not only can you get the regular handpaws, 
 
 Features several styles of feetpaws, in accordance to the species of your character. I can do regular paws as well as hoofed handpaws etc. They feature minky and faux fur as well as a foam sole. The area around your foot is padded for extra comfort, and feel like large slippers. The inside is lined with sweat-absorbent neoprene. Each pair is carefully crafted to be comfortable, durable and aesthetically pleasing. Feature claws upon your request. The claws are securely fastened with several seams to ensure the paws sustain being worn. These can be washed in a regular washing machine using regular detergent and cold water. More info on the cleaning page. Features foot soles upon your request.
 
-### Tail — 2000 kr
+### Tail — 2500 kr
 
 {{< figure src="/prices/prices1.jpg" alt="Tail" caption="Tail" >}}
 
