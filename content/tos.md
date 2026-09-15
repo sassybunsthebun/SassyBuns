@@ -4,7 +4,7 @@ draft = false
 +++
 
 
-## These are the terms and conditions which both I, the creator, and the commissioner will abide by to ensure a safe and enjoyable commission experience. By commissioning me, you agree to my Terms of Service (ToS).
+## These are the terms and conditions which both I, the creator, and the commissioner will abide by to ensure a safe and enjoyable commission experience. By commissioning me, you agree to my Terms of Service (ToS)
 
 These terms apply to all commissions, except if something else has been agreed upon before the commission is started.
 
@@ -29,7 +29,6 @@ You are able to request a full refund before I buy the materials. After that you
 
 In rare circumstances, I may not be able to finish your commission. In these cases, you will receive a full refund, even if materials have been ordered.
 
-
 ### Deadlines
 
 Due to the fact that fursuits take a long time to make, I cannot guarantee that I meet any deadlines such as cons, etc. I therefore do not work with deadlines. Even though I do not work with deadlines, I will still do my best to finish your work as fast as possible, and will provide updates during the making of the fursuit.
@@ -43,3 +42,7 @@ I ship with Posten from Norway with tracking. Do contact me about different ship
 I do offer repairs and touch-ups on finished commissions. I may charge a fee for materials and/or labor depending on the complexity of the repair. This will be agreed upon before the repair is started.
 The commissioner is responsible for shipping or delivering the suit to me, and for picking up or paying return shipping after the repair is finished.
 I may refuse to do repairs if the fursuit has been damaged intentionally, or as a result of improper care, such as from not following the provided [cleaning guide](../cleaning).
+
+### Measurements
+
+Some commissions might require you to take head measurements. I will do my best to explain what needs to be measured. You are responsible for ensuring that these measurements are accurate, and once you have done these measurements, I take no responsibility for any errors that might be related to inaccurate measurements. If you realize some measurements are inaccurate, contact me as quickly as possible to resolve this. I advise my commissioners to take care to use proper measuring equipment, like a measuring tape, for doing their measurements, and double-checking the results.
