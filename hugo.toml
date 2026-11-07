@@ -153,11 +153,16 @@ expiryDate = ["expiryDate"]
     weight = 18
 
   [[menu.main]]
+    name = "Maintainence"
+    url = "maintainence/"
+    weight = 19
+
+  [[menu.main]]
     name = "Supplies"
     url = "supplies/"
-    weight = 19
+    weight = 20
 
   [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 20
+    weight = 21
